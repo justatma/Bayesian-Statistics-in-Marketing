@@ -1,0 +1,8 @@
+PWD -  Path to Bayes
+
+
+/Users/atma/Documents/1 - Atman Group/3 - Startup Ecology 2.0/Growth Bastards/All Growth Bastards after 2023/ Marketing Processes/Data Analytics & Assessment/Bayesian Statistics/CODEBASE_Bayes
+
+
+To switch to a subfolder, e.g. /modules
+cd /Users/atma/Documents/1 - Atman Group/3 - Startup Ecology 2.0/Growth Bastards/All Growth Bastards after 2023/ Marketing Processes/Data Analytics & Assessment/Bayesian Statistics/CODEBASE_Bayes/modules
