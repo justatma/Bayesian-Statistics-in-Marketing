@@ -1,0 +1,25 @@
+# Core Data & Scientific Libraries
+pandas>=2.0
+numpy>=1.25
+scipy>=1.11
+seaborn>=0.12
+matplotlib>=3.8
+
+# OpenAI + GPT Integration
+openai>=1.30
+
+# Environment Variables
+python-dotenv>=1.0
+
+# Report Generation (HTML + PDF)
+weasyprint>=61.0
+reportlab>=4.0
+
+# Jupyter Notebook Support
+notebook>=7.0
+ipykernel>=6.29
+jupyterlab>=4.1
+
+# Optional Utilities
+requests>=2.31
+PyYAML>=6.0
