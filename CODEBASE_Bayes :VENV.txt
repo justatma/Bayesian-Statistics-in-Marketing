@@ -1,4 +1,0 @@
-
-Open VENV
-
-source bayes_env/bin/activate

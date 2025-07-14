@@ -7,12 +7,18 @@ def load_meta_ads_data():
     Stub for Meta Ads Manager API.
     Returns a DataFrame with sample ad performance columns.
     """
+
+    
     sample = {
         'ad_name': ['Ad A', 'Ad B'],
         'impressions': [1000, 1050],
-        'clicks': [92, 78]
+        'clicks': [92, 78],
+        'conversions': [12, 9],
+        'cost': [1200.0, 1500.0],  # total spend in dollars
+        'revenue': [2400.0, 1800.0]   # total revenue in dollars
     }
     return pd.DataFrame(sample)
+    
 
 def load_linkedin_campaign_data():
     """
